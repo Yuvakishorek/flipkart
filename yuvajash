@@ -1,0 +1,13 @@
+class b
+{
+public static void main(string args[])
+int i;
+i=10; 
+{
+System.out.println(i);
+}
+else;
+{
+System.out.println("Welcome yuvajash");
+}
+}
